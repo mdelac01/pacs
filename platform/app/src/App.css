@@ -2,3 +2,16 @@ body {
   overscroll-behavior: none;
   touch-action: none;
 }
+
+/* dlcview Green/Teal Theme Variables */
+:root,
+.dark {
+  --primary: 170 100% 39%;
+  --primary-foreground: 0 0% 98%;
+  --highlight: 169 82% 54%;
+  --ring: 170 100% 39%;
+  --secondary: 170 50% 28%;
+  --secondary-foreground: 170 50% 90%;
+  --accent: 170 40% 16%;
+  --accent-foreground: 0 0% 98%;
+}
