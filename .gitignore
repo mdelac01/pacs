@@ -74,3 +74,4 @@ libs/
 link-cs3d.js
 unlink-cs3d.js
 auth.json
+.pnpm-store/
